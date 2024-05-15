@@ -4,4 +4,8 @@ Made with wordpress.org, site is hosted locally and uses "simply static" to conv
 
 # Modify
 
-To modify the site use the migration file "migrate.wpress", install "All-in-One Migration Plugin" and import the migration file.
+To modify the site create a fresh wordpress website, then use the migration file "migrate.wpress", install "All-in-One Migration Plugin" and import the migration file.
+
+# Generate using Simply Static
+
+You can the host the site as is on regular wordpress hosting, or you can host the site on localhost using xampp and push the site static files to github using simply static plugin.
